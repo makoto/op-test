@@ -9,7 +9,8 @@
   "author": "Makoto Inoue",
   "license": "ISC",
   "dependencies": {
-    "@eth-optimism/sdk": "^1.6.8",
+    "@eth-optimism/core-utils": "^0.10.1",
+    "@eth-optimism/sdk": "0.0.0-2022927151939",
     "ethers": "^5.7.2"
   }
 }
